@@ -1,27 +1,53 @@
-# Pokyny pro zpravání domácího úkolu - prezentace na zadané téma
-Kritéria práce
+**Postup práce:**
+Naučte se pracovat s GITem  - využít lze např. https://www.itnetwork.cz/programovani/git nebo https://patek.cz/talks/git/
+
+Udělejte klon tohoto repozitáře na Váš lokální počítač, tento vámi zklonovaný repozitář vhodně pojmenujte s ohledem na obsah vaší prezentace. Soubor README.md upravte tak, že ve stručnosti uvedete čeho se vše práce týká (stačí nekolik řádků) a případně uvedete všehcny další relevantní informace, které uznáte za vhodné. Pro tento lokání repozitář následně proveďte COMMIT a synchronizujte se vzdáleným repozitářem na GitHubu (PUSH). Přidejte vlastní soubor Vaší prezentace (ADD) a jakékoliv změny průběžně COMITTujte a synchronizujte (PUSH) se vzdálenám repozitářem. Účelem je, že na GitHubu bude kompletně vidět celá časová osa Vaší práce na úkolu.
+
+**Kritéria práce:**
+
 •	Prezentace v PPT v rozsahu cca 20 snímků
+
 •	Bude obsahovat i stručné poznámky pro prezentujícího
+
 •	Vkusně řešená grafika a rozumné efekty (méně je někdy více)
+
 •	Vkusně volit barvy – aby bylo vše čitelné i při předvádění na projekci
+
 •	Snímky s přechody 
+
 •	Doplnit časování (možnost zapnutí) pro automatický běh prezentace
-•	Posledním snímkem prezentace bude citace použité literatury (dle norem)
+
+•	Předposledním snímkem prezentace bude citace použité literatury (dle norem)
+
+•	Posledním snímkem prezentace bude informace o repozitáři zde na GitHubu (spolu s linkem), kde bude zachcen postupný vznik této prezentace
+
 •	Prezentaci uložit vedle formátu pptx i ve formátu pro přímé předvádění (ppsx)
+
 •	Soubory budou pojmenovány jménem (zaba.pptx, zaba.ppsx)
+
 •	Odevzdání bude provedeno nakopírováním do složky T:\uzaba
+
 •	Termín odevzdání do 20.1.2023
+
 •	Během druhého pololetí proběhne postupně prezentace jednotlivých témat
+
 •	Hodnoceno bude splnění termínu odevzdání a dalších kritérií (viz výše) stejně jako záživnost, srozumitelnost přesnost a přehlednost slovního projevu při prezentaci
+
 •	Znalost obsahu jednotlivých témat může být součástí hodnocení (písemka)
 
-Literatura:
+
+**Literatura:**
+
 https://www.itnetwork.cz/ms-office/powerpoint
+
 https://www.citace.com/vytvorit-citaci
+
 http://generator-citaci.cz/
+
 https://www.jaknainternet.cz/page/1198/jak-hledat-na-internetu/
 
-Témata pro prezentace – I11 – INT
+
+**Témata pro prezentace – I11 – INT**
 1)	Sociální síť LinkedIn, principy, zásady tvorby profilů, premium účet a jeho výhody
 2)	MojeID, k čemu to je, jak a kde ho využít, možnosti autentizace
 3)	Bankovní identita a její využití, portál veřejné správy
@@ -66,4 +92,3 @@ Témata pro prezentace – I11 – INT
 42)	WiFi, existující standardy, rychlosti, dosah, zabezpečení, frekvenční pásma, 
 veřejné oprávnění ČTU
 43)	Nějaké jiné téma – dejte vědět jaké (nejlépe probrat osobně), ale vyhrazuji si právo veta
-
