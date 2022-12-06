@@ -19,7 +19,7 @@ Udělejte klon tohoto repozitáře na Váš lokální počítač, tento vámi zk
 
 •	Předposledním snímkem prezentace bude citace použité literatury (dle norem)
 
-•	Posledním snímkem prezentace bude informace o repozitáři zde na GitHubu (spolu s linkem), kde bude zachcen postupný vznik této prezentace
+•	Posledním snímkem prezentace bude informace o repozitáři zde na GitHubu (spolu s linkem), kde bude zachycen postupný vznik této prezentace
 
 •	Prezentaci uložit vedle formátu pptx i ve formátu pro přímé předvádění (ppsx)
 
