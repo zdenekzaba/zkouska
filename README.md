@@ -1,7 +1,7 @@
 **Postup práce:**
 Naučte se pracovat s GITem  - využít lze např. https://www.itnetwork.cz/programovani/git případně https://www.kutac.cz/pocitace-a-internety/jak-na-git-dil-0-co-proc-jak nebo https://www.freecodecamp.org/news/git-cheat-sheet/ nebo https://patek.cz/talks/git/
 
-Udělejte klon tohoto repozitáře na Váš lokální počítač, tento vámi zklonovaný repozitář vhodně pojmenujte s ohledem na obsah vaší prezentace, nastavte svůj vzdálený repozitář (soubor config v adresáři .git). Soubor README.md upravte tak, že ve stručnosti uvedete čeho se vše práce týká (stačí nekolik řádků) a případně uvedete všechny další relevantní informace, které uznáte za vhodné. Pro tento lokání repozitář následně proveďte COMMIT a synchronizujte se vzdáleným repozitářem na GitHubu (PUSH). Přidejte vlastní soubor Vaší prezentace (ADD) a jakékoliv změny průběžně COMITujte a synchronizujte (PUSH) se vzdálenám repozitářem. Účelem je, že na GitHubu bude kompletně vidět celá časová osa Vaší práce na úkolu.
+Udělejte klon tohoto repozitáře na Váš lokální počítač, tento vámi zklonovaný repozitář vhodně pojmenujte s ohledem na obsah vaší prezentace, nastavte svůj vzdálený repozitář (git remote set-url resp. soubor config v adresáři .git). Soubor README.md upravte tak, že ve stručnosti uvedete čeho se vše práce týká (stačí nekolik řádků) a případně uvedete všechny další relevantní informace, které uznáte za vhodné. Pro tento lokání repozitář následně proveďte COMMIT a synchronizujte se vzdáleným repozitářem na GitHubu (PUSH). Přidejte vlastní soubor Vaší prezentace (ADD) a jakékoliv změny průběžně COMITujte a synchronizujte (PUSH) se vzdálenám repozitářem. Účelem je, že na GitHubu bude kompletně vidět celá časová osa Vaší práce na úkolu.
 
 **Kritéria práce:**
 
